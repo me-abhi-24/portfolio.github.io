@@ -241,6 +241,7 @@ img{
 }
 .skills_subtitle{
     margin-bottom: var(--mb-2);
+    
 }
 .skills_text{
     margin-bottom: var(--mb-4);
@@ -260,6 +261,7 @@ img{
     font-size: 2rem;
     margin-right: var(--mb-2);
     color: var(--first-color);
+    /* align-items: start; */
 }
 .skills_name{
     display: flex;
